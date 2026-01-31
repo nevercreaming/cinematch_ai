@@ -1,0 +1,5 @@
+{
+  "name": "CineMatch AI",
+  "description": "An intelligent movie and TV show recommendation engine powered by Gemini AI, featuring multi-genre filtering and detailed content insights.",
+  "requestFramePermissions": []
+}
